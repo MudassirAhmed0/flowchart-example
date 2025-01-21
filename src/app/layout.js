@@ -1,14 +1,13 @@
 import "swiper/css";
-import "./globals.css"; 
+import "./globals.css";
 import "swiper/css/navigation";
 // import GoogleAnalytics from "./GoogleAnalytics";
 
 import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata = {
-  title: "البنوك السعودية - لجنة الإعلام والتوعية المصرفية بالبنوك السعودية",
-  description:
-    "تأت الهوية الجديدة للجنة الإعلام والتوعية المصرفية في البنوك السعودية ترجماناً واضحاً لدورها الاستراتيجي في تكامل المنظومة المصرفية في المملكة وتمكين المجتمع معرفيا بثقافة العمل المصرفي",
+  title: "Flow Chart Example",
+  description: "",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -16,24 +15,20 @@ export const metadata = {
     maximumScale: 1,
   },
   openGraph: {
-    title: "البنوك السعودية - لجنة الإعلام والتوعية المصرفية بالبنوك السعودية",
-    siteName:
-      "البنوك السعودية - لجنة الإعلام والتوعية المصرفية بالبنوك السعودية",
-    description:
-      "تأت الهوية الجديدة للجنة الإعلام والتوعية المصرفية في البنوك السعودية ترجماناً واضحاً لدورها الاستراتيجي في تكامل المنظومة المصرفية في المملكة وتمكين المجتمع معرفيا بثقافة العمل المصرفي",
+    title: "Flow Chart Example",
+    siteName: "Flow Chart Example",
+    description: "",
 
-    images: ["/images/ogImage.jpg"],
+    // images: ["/images/ogImage.jpg"],
     width: 1200,
     height: 628,
   },
   twitter: {
-    title: "البنوك السعودية - لجنة الإعلام والتوعية المصرفية بالبنوك السعودية",
-    siteName:
-      "البنوك السعودية - لجنة الإعلام والتوعية المصرفية بالبنوك السعودية",
-    description:
-      "تأت الهوية الجديدة للجنة الإعلام والتوعية المصرفية في البنوك السعودية ترجماناً واضحاً لدورها الاستراتيجي في تكامل المنظومة المصرفية في المملكة وتمكين المجتمع معرفيا بثقافة العمل المصرفي",
+    title: "Flow Chart Example",
+    siteName: "Flow Chart Example",
+    description: "",
 
-    images: ["/images/ogImage.jpg"],
+    // images: ["/images/ogImage.jpg"],
     width: 1200,
     height: 628,
   },
