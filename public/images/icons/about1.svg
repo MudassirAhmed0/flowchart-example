@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.45 69.63" style="">
+                              <defs>
+                                <style>
+                                  .b7b514aa-0e55-4d4f-af67-86192cc139d8 {
+                                    fill: #4ee0a4;
+                                  }
+
+                                  .b5a7c384-a844-4055-af55-5140ccd9eb84,
+                                  .e7aca80a-3c16-4b5d-8cb2-b91643882228 {
+                                    fill: none;
+                                    stroke: #224a55;
+                                    stroke-linejoin: round;
+                                    stroke-width: 3px;
+                                  }
+
+                                  .e7aca80a-3c16-4b5d-8cb2-b91643882228 {
+                                    stroke-linecap: round;
+                                  }
+                                </style>
+                              </defs>
+                              <g id="abf9785e-0ffc-4672-b6f2-fc811962ee0a" data-name="Layer 2">
+                                <g id="b855a5c7-9343-465c-8c5d-cc1ca2c8a7d0" data-name="Layer 1">
+                                  <path class="b7b514aa-0e55-4d4f-af67-86192cc139d8 KzloVoAh_0" d="M95.99,68.13L93.77,42.8L77.72,32.66L76.17,51.23L71.73,48.17L68.95,53.59L72.78,68.13L95.99,68.13Z">
+                                  </path>
+                                  <path class="b7b514aa-0e55-4d4f-af67-86192cc139d8 KzloVoAh_1" d="M37.47,68.13L39.69,42.8L55.73,32.66L57.28,51.23L61.72,48.17L64.51,53.59L60.67,68.13L37.47,68.13Z">
+                                  </path>
+                                  <path class="b5a7c384-a844-4055-af55-5140ccd9eb84 KzloVoAh_2" d="M37.47,68.13c0-1.52,2.22-25.33,2.22-25.33l16-10.49"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_3" d="M55.73,32.31L57.34,51.98L66.73,43.81L55.73,32.31Z"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_4" d="M64.51,53.19L60.67,68.13"></path>
+                                  <path class="b5a7c384-a844-4055-af55-5140ccd9eb84 KzloVoAh_5" d="M96,68.13c0-1.52-2.22-25.33-2.22-25.33l-16-10.49"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_6" d="M77.72,32.31L76.11,51.98L66.73,43.81L77.72,32.31Z"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_7" d="M66.73,43.81L61.72,48.17L64.51,53.2L66.73,53.2L68.95,53.2L71.73,48.17L66.73,43.81Z">
+                                  </path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_8" d="M68.95,53.19L72.78,68.13"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_9" d="M77.72,58.68L86.3,58.68"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_10" d="M78.4,15.83C78.4,7.91,73.17,1.5,66.73,1.5S55.06,7.91,55.06,15.83s5.22,14.32,11.67,14.32S78.4,23.74,78.4,15.83Z">
+                                  </path>
+                                  <path class="b5a7c384-a844-4055-af55-5140ccd9eb84 KzloVoAh_11" d="M93.51,43.03L104.29,35.98"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_12" d="M111.68,43.71L104.29,35.98"></path>
+                                  <path class="b5a7c384-a844-4055-af55-5140ccd9eb84 KzloVoAh_13" d="M132,63c0-1-2.1-20-2.1-20L119.07,36"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_14" d="M119.07,35.98L111.68,43.71L111.68,58.68"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_15" d="M103.84,24.9A7.84,9.63 0,1,1 119.52000000000001,24.9A7.84,9.63 0,1,1 103.84,24.9">
+                                  </path>
+                                  <path class="b5a7c384-a844-4055-af55-5140ccd9eb84 KzloVoAh_16" d="M39.95,43.03L29.17,35.98"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_17" d="M21.77,43.71L29.17,35.98"></path>
+                                  <path class="b5a7c384-a844-4055-af55-5140ccd9eb84 KzloVoAh_18" d="M1.5,63c0-1,2.1-20,2.1-20L14.38,36"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_19" d="M14.38,35.98L21.77,43.71L21.77,58.68"></path>
+                                  <path class="e7aca80a-3c16-4b5d-8cb2-b91643882228 KzloVoAh_20" d="M13.93,24.9A7.84,9.63 0,1,1 29.61,24.9A7.84,9.63 0,1,1 13.93,24.9"></path>
+                                </g>
+                              </g>
+                              <style data-made-with="vivus-instant">
+                                .KzloVoAh_0 {
+                                  stroke-dasharray: 113 115;
+                                  stroke-dashoffset: 114;
+                                  animation: KzloVoAh_draw 2980ms linear 0ms forwards;
+                                }
+
+                                .KzloVoAh_1 {
+                                  stroke-dasharray: 113 115;
+                                  stroke-dashoffset: 114;
+                                  animation: KzloVoAh_draw 2980ms linear 1ms forwards;
+                                }
+
+                                .KzloVoAh_2 {
+                                  stroke-dasharray: 45 47;
+                                  stroke-dashoffset: 46;
+                                  animation: KzloVoAh_draw 2980ms linear 2ms forwards;
+                                }
+
+                                .KzloVoAh_3 {
+                                  stroke-dasharray: 49 51;
+                                  stroke-dashoffset: 50;
+                                  animation: KzloVoAh_draw 2980ms linear 3ms forwards;
+                                }
+
+                                .KzloVoAh_4 {
+                                  stroke-dasharray: 16 18;
+                                  stroke-dashoffset: 17;
+                                  animation: KzloVoAh_draw 2980ms linear 4ms forwards;
+                                }
+
+                                .KzloVoAh_5 {
+                                  stroke-dasharray: 45 47;
+                                  stroke-dashoffset: 46;
+                                  animation: KzloVoAh_draw 2980ms linear 5ms forwards;
+                                }
+
+                                .KzloVoAh_6 {
+                                  stroke-dasharray: 49 51;
+                                  stroke-dashoffset: 50;
+                                  animation: KzloVoAh_draw 2980ms linear 6ms forwards;
+                                }
+
+                                .KzloVoAh_7 {
+                                  stroke-dasharray: 30 32;
+                                  stroke-dashoffset: 31;
+                                  animation: KzloVoAh_draw 2980ms linear 7ms forwards;
+                                }
+
+                                .KzloVoAh_8 {
+                                  stroke-dasharray: 16 18;
+                                  stroke-dashoffset: 17;
+                                  animation: KzloVoAh_draw 2980ms linear 8ms forwards;
+                                }
+
+                                .KzloVoAh_9 {
+                                  stroke-dasharray: 9 11;
+                                  stroke-dashoffset: 10;
+                                  animation: KzloVoAh_draw 2980ms linear 9ms forwards;
+                                }
+
+                                .KzloVoAh_10 {
+                                  stroke-dasharray: 82 84;
+                                  stroke-dashoffset: 83;
+                                  animation: KzloVoAh_draw 2980ms linear 10ms forwards;
+                                }
+
+                                .KzloVoAh_11 {
+                                  stroke-dasharray: 13 15;
+                                  stroke-dashoffset: 14;
+                                  animation: KzloVoAh_draw 2980ms linear 11ms forwards;
+                                }
+
+                                .KzloVoAh_12 {
+                                  stroke-dasharray: 11 13;
+                                  stroke-dashoffset: 12;
+                                  animation: KzloVoAh_draw 2980ms linear 12ms forwards;
+                                }
+
+                                .KzloVoAh_13 {
+                                  stroke-dasharray: 34 36;
+                                  stroke-dashoffset: 35;
+                                  animation: KzloVoAh_draw 2980ms linear 13ms forwards;
+                                }
+
+                                .KzloVoAh_14 {
+                                  stroke-dasharray: 26 28;
+                                  stroke-dashoffset: 27;
+                                  animation: KzloVoAh_draw 2980ms linear 14ms forwards;
+                                }
+
+                                .KzloVoAh_15 {
+                                  stroke-dasharray: 56 58;
+                                  stroke-dashoffset: 57;
+                                  animation: KzloVoAh_draw 2980ms linear 15ms forwards;
+                                }
+
+                                .KzloVoAh_16 {
+                                  stroke-dasharray: 13 15;
+                                  stroke-dashoffset: 14;
+                                  animation: KzloVoAh_draw 2980ms linear 16ms forwards;
+                                }
+
+                                .KzloVoAh_17 {
+                                  stroke-dasharray: 11 13;
+                                  stroke-dashoffset: 12;
+                                  animation: KzloVoAh_draw 2980ms linear 17ms forwards;
+                                }
+
+                                .KzloVoAh_18 {
+                                  stroke-dasharray: 33 35;
+                                  stroke-dashoffset: 34;
+                                  animation: KzloVoAh_draw 2980ms linear 18ms forwards;
+                                }
+
+                                .KzloVoAh_19 {
+                                  stroke-dasharray: 26 28;
+                                  stroke-dashoffset: 27;
+                                  animation: KzloVoAh_draw 2980ms linear 19ms forwards;
+                                }
+
+                                .KzloVoAh_20 {
+                                  stroke-dasharray: 56 58;
+                                  stroke-dashoffset: 57;
+                                  animation: KzloVoAh_draw 2980ms linear 20ms forwards;
+                                }
+
+                                @keyframes KzloVoAh_draw {
+                                  100% {
+                                    stroke-dashoffset: 0;
+                                  }
+                                }
+
+                                @keyframes KzloVoAh_fade {
+                                  0% {
+                                    stroke-opacity: 1;
+                                  }
+
+                                  94.44444444444444% {
+                                    stroke-opacity: 1;
+                                  }
+
+                                  100% {
+                                    stroke-opacity: 0;
+                                  }
+                                }
+                              </style>
+                            </svg>

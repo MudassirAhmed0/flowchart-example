@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 142.75 84.12" style="">
+                              <defs>
+                                <style>
+                                  .a86efd61-b8d1-401c-8fe1-24d4f880082d {
+                                    fill: none;
+                                    stroke: #224a55;
+                                    stroke-linecap: round;
+                                    stroke-linejoin: round;
+                                    stroke-width: 3px;
+                                  }
+
+                                  .bc9643ab-cfa3-4b07-ab86-a0f220737315 {
+                                    fill: #4ee0a4;
+                                  }
+                                </style>
+                              </defs>
+                              <g id="f931b8ec-9abe-4ba2-8da5-bd5bc1adebb6" data-name="Layer 2">
+                                <g id="baa68915-33e6-44a0-a20a-a926106af502" data-name="Layer 1">
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_0" d="M30.83,42.06A40.55,40.55 0,1,1 111.92999999999999,42.06A40.55,40.55 0,1,1 30.83,42.06">
+                                  </path>
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_1" d="M88.31,23.68a25,25,0,0,0-39.57,29"></path>
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_2" d="M54.87,60.83A25,25,0,0,0,95,34"></path>
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_3" d="M46.08,63.45L59,47.17L65.38,51.56L73.65,40.13L80.18,44.98L98.18,21.39"></path>
+                                  <path class="bc9643ab-cfa3-4b07-ab86-a0f220737315 sNWqTPZO_4" d="M55.11,44.08a5,5,0,0,1,6.71-1l2.38,1.63,5.42-7.49a5,5,0,0,1,7-1.08l2.56,1.91,7.66-10.17A21,21,0,0,0,51.45,48.69Z">
+                                  </path>
+                                  <path class="bc9643ab-cfa3-4b07-ab86-a0f220737315 sNWqTPZO_5" d="M84.15,48a5,5,0,0,1-6.94,1l-2.48-1.84-5.32,7.34a5,5,0,0,1-6.85,1.19L60,53.9l-2.85,3.59A21,21,0,0,0,92.39,42.06a21.26,21.26,0,0,0-.47-4.4Z">
+                                  </path>
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_6" d="M93.53,21.05L98.18,21.39"></path>
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_7" d="M98.18,21.39L99.21,26.65"></path>
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_8" d="M71.38,82.61S32.83,84.49,1.5,42.06C32.83-.37,71.38,1.51,71.38,1.51"></path>
+                                  <path class="a86efd61-b8d1-401c-8fe1-24d4f880082d sNWqTPZO_9" d="M71.38,82.61s38.54,1.88,69.87-40.55C109.92-.37,71.38,1.51,71.38,1.51"></path>
+                                </g>
+                              </g>
+                              <style data-made-with="vivus-instant">
+                                .sNWqTPZO_0 {
+                                  stroke-dasharray: 255 257;
+                                  stroke-dashoffset: 256;
+                                  animation: sNWqTPZO_draw 2980ms linear 0ms forwards;
+                                }
+
+                                .sNWqTPZO_1 {
+                                  stroke-dasharray: 69 71;
+                                  stroke-dashoffset: 70;
+                                  animation: sNWqTPZO_draw 2980ms linear 2ms forwards;
+                                }
+
+                                .sNWqTPZO_2 {
+                                  stroke-dasharray: 66 68;
+                                  stroke-dashoffset: 67;
+                                  animation: sNWqTPZO_draw 2980ms linear 4ms forwards;
+                                }
+
+                                .sNWqTPZO_3 {
+                                  stroke-dasharray: 81 83;
+                                  stroke-dashoffset: 82;
+                                  animation: sNWqTPZO_draw 2980ms linear 6ms forwards;
+                                }
+
+                                .sNWqTPZO_4 {
+                                  stroke-dasharray: 107 109;
+                                  stroke-dashoffset: 108;
+                                  animation: sNWqTPZO_draw 2980ms linear 8ms forwards;
+                                }
+
+                                .sNWqTPZO_5 {
+                                  stroke-dasharray: 102 104;
+                                  stroke-dashoffset: 103;
+                                  animation: sNWqTPZO_draw 2980ms linear 11ms forwards;
+                                }
+
+                                .sNWqTPZO_6 {
+                                  stroke-dasharray: 5 7;
+                                  stroke-dashoffset: 6;
+                                  animation: sNWqTPZO_draw 2980ms linear 13ms forwards;
+                                }
+
+                                .sNWqTPZO_7 {
+                                  stroke-dasharray: 6 8;
+                                  stroke-dashoffset: 7;
+                                  animation: sNWqTPZO_draw 2980ms linear 15ms forwards;
+                                }
+
+                                .sNWqTPZO_8 {
+                                  stroke-dasharray: 168 170;
+                                  stroke-dashoffset: 169;
+                                  animation: sNWqTPZO_draw 2980ms linear 17ms forwards;
+                                }
+
+                                .sNWqTPZO_9 {
+                                  stroke-dasharray: 168 170;
+                                  stroke-dashoffset: 169;
+                                  animation: sNWqTPZO_draw 2980ms linear 20ms forwards;
+                                }
+
+                                @keyframes sNWqTPZO_draw {
+                                  100% {
+                                    stroke-dashoffset: 0;
+                                  }
+                                }
+
+                                @keyframes sNWqTPZO_fade {
+                                  0% {
+                                    stroke-opacity: 1;
+                                  }
+
+                                  94.44444444444444% {
+                                    stroke-opacity: 1;
+                                  }
+
+                                  100% {
+                                    stroke-opacity: 0;
+                                  }
+                                }
+                              </style>
+                            </svg>
